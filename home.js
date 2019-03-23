@@ -7,7 +7,7 @@ function goto2(){
 
  localStorage.setItem('name' , name);
 
- window.location = "mercury.html" ;
+ window.location = "welcome.html" ;
 
 
 
