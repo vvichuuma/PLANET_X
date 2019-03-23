@@ -26,6 +26,40 @@ html , body{
 	margin-top: 3rem
 }
 
+#header{
+	font-family: 'Cinzel', serif;
+}
+
+.headed{
+	border: 1px solid white;
+	text-align: center;
+	margin-top: 4rem;
+	color: white;
+	font-family: 'Margarine', cursive;
+
+}
+
+select { font-size: 1.3em;
+          padding:1rem;
+         -webkit-appearance: none;
+         -moz-appearance: none;
+          appearance: none;
+
+          background: black;
+          color: white;
+          outline: none;
+          margin-top: 3rem;
+        font-family: 'Cinzel', serif;
+
+          
+        }
+
+.planet{
+	border:1px solid white;
+	text-align: center;
+
+
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 
