@@ -6,5 +6,6 @@ function mercury(){
 }
 
 function home(){
+	alert("This app was created by Vishnu")
 	window.location = "home.html";
 }

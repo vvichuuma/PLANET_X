@@ -10,7 +10,7 @@ html , body{
 
 
 .planetx{
-	border:1px solid white;
+
 	padding:1rem;
 	text-align: center;
 	color: white;
@@ -30,7 +30,7 @@ body{
 }
 
 .embark{
-	border: 1px solid white;
+
 	color: white;
 	padding:1rem;
 	margin-top: 5rem;
@@ -46,7 +46,7 @@ body{
 }
 
 .form{
-	border:1px solid white;
+
 	text-align: center;
 	padding: 1rem;
 	margin-top: 4rem;
@@ -65,7 +65,7 @@ body{
 }
 
 .img{
-	border : 1px solid white;
+
 	text-align: center;
 	margin-top: 1.5rem;
 }
