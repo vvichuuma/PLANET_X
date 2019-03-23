@@ -1,0 +1,122 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+
+body{
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+
+html , body{
+	min-height: 100%;
+}
+
+#heading{
+	border : 1px solid white;
+	color: white;
+	text-align: center;
+	margin-top: 2rem;
+}
+
+
+#para{
+	border: 0.1rem solid white;
+	color: white;
+	padding:1.4rem;
+	width: 80%;
+	margin: 10% auto;
+}
+
+#strait{
+	border:1px solid white;
+	text-align: center;
+}
+
+#butt{
+	border:1px solid white;
+	text-align: center;
+
+}
+
+#home{
+	margin-top: 2%;
+}
+
+button{
+	padding: 1rem;
+	border-radius: 1rem ;
+	border:0.1rem solid black;
+	font-size: 1rem;
+}
+
+button:hover{
+	background-color: green;
+	color: white;
+	cursor: pointer;
+}
+
+
+body{
+	background-image: url("mercury.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  
+   html{
+  	font-size: 12px;
+  }
+
+
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  
+    html{
+  	font-size: 13px;
+  }
+
+
+} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  
+    html{
+  	font-size: 14px;
+  }
+
+
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+   
+     html{
+  	font-size: 15px;
+  }
+
+
+
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+  html{
+  	font-size: 16px;
+  }
+
+
+}
+
+
+
+
+
