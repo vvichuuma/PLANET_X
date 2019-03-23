@@ -1,6 +1,19 @@
+
+
+
 *{
-	margin:0;
-	padding:0;
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	color: white;
+}
+
+
+body{
+	background-image: url("spec.jpg");
+
 }
 
 html , body{
@@ -10,85 +23,55 @@ html , body{
 .head{
 	border: 1px solid white;
 	text-align: center;
-	margin-top: 3rem;
-}
-
-#header{
-	color: white;
-	font-size: 3rem;
-font-family: 'Playfair Display', serif;
-
-}
-
-body{
-
-	background-image: url("spec.jpg");
-
-	background-repeat: no-repeat;
-	background-size: cover;
-   background-position: center;
-
+	margin-top: 3rem
 }
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 
-	    html{
-  	font-size: 20px;
-  }
-
-
-
+  html{
+   	font-size: 15px;
+   }
 
 } 
 
-
-
-
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-
+  
     html{
-  	font-size: 18px;
-  }
- 
-
+   	font-size: 17px;
+   }
 
 } 
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   
-  html{
-  	font-size: 17px;
-  }
+   html{
+   	font-size: 18px;
+   }
+
 
 
 } 
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-
+  
     html{
-  	font-size: 18px;
-  }
-
-
+   	font-size: 19px;
+   }
 
 
 } 
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
+   
+   html{
+   	font-size: 19px;
+   }
 
-
-  html{
-  	font-size: 19px;
-  }
-
- 
 
 }
-
-
 
