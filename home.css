@@ -1,0 +1,90 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+html , body{
+	min-height: 100%;
+}
+
+
+.planetx{
+	border:1px solid white;
+	padding:1rem;
+	text-align: center;
+	color: white;
+}
+
+
+
+
+body{
+	background-image: url("lings.jpeg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.embark{
+	border: 1px solid white;
+	color: white;
+	padding:1rem;
+	margin-top: 5rem;
+	text-align: center;
+	
+}
+
+.jout{
+
+	font-family: 'Cinzel', serif;
+
+
+}
+
+.form{
+	border:1px solid white;
+	text-align: center;
+	padding: 1rem;
+	margin-top: 4rem;
+}
+
+.form h2{
+	color: white;
+	font-size: 1.5rem;
+
+}
+
+.form input{
+	width: 10rem;
+	border-radius: 1rem;
+	padding: 0.6rem;
+}
+
+.img{
+	border : 1px solid white;
+	text-align: center;
+	margin-top: 1.5rem;
+}
+
+.img img{
+	border-radius: 5rem;
+	cursor: pointer;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
