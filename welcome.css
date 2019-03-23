@@ -58,8 +58,30 @@ select { font-size: 1.3em;
 	border:1px solid white;
 	text-align: center;
 
-
 }
+
+ .butt{
+  border:1px solid white;
+  text-align: center;
+  margin-top: 3rem;
+  padding: 1rem;
+ }
+
+ button{
+  padding: 1rem;
+  border-radius: 1rem;
+  font-size: 1rem;
+  color: white;
+  background-color: black;
+ }
+
+ button:hover{
+  background-color: green;
+  cursor: pointer;
+ }
+
+
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 
