@@ -82,6 +82,10 @@ body{
   	font-size: 20px;
   }
 
+    #BG{
+    display: none;
+  }
+
 
 } 
 
@@ -92,6 +96,11 @@ body{
   	font-size: 21px;
   }
 
+      #BG{
+    display: none;
+  }
+
+
 
 } 
 
@@ -100,6 +109,10 @@ body{
    
      html{
   	font-size: 21px;
+  }
+
+    #BG{
+    display: none;
   }
 
 
@@ -112,6 +125,12 @@ body{
   html{
   	font-size: 22px;
   }
+
+
+      #BG{
+    display: none;
+  }
+
 
 
 }

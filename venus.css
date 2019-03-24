@@ -73,6 +73,8 @@ body{
   }
 
 
+
+
 } 
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -80,6 +82,11 @@ body{
   
     html{
   	font-size: 20px;
+  }
+
+
+  #BG{
+    display: none;
   }
 
 
@@ -93,6 +100,12 @@ body{
   }
 
 
+    #BG{
+    display: none;
+  }
+
+
+
 } 
 
 /* Large devices (laptops/desktops, 992px and up) */
@@ -101,6 +114,12 @@ body{
      html{
   	font-size: 21px;
   }
+
+
+    #BG{
+    display: none;
+  }
+
 
 
 
@@ -112,6 +131,11 @@ body{
   html{
   	font-size: 22px;
   }
+
+    #BG{
+    display: none;
+  }
+
 
 
 }

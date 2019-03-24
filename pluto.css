@@ -83,6 +83,12 @@ body{
   }
 
 
+   #BG{
+    display: none;
+  }
+
+
+
 } 
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -90,6 +96,10 @@ body{
   
     html{
   	font-size: 21px;
+  }
+
+ #BG{
+    display: none;
   }
 
 
@@ -102,6 +112,11 @@ body{
   	font-size: 21px;
   }
 
+   #BG{
+    display: none;
+  }
+
+
 
 
 } 
@@ -112,6 +127,11 @@ body{
   html{
   	font-size: 22px;
   }
+
+   #BG{
+    display: none;
+  }
+
 
 
 }
